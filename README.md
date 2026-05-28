@@ -2,7 +2,7 @@
 A self-hostable, real-time waitlist engine with viral referral mechanics. Built with Next.js, Supabase, and Resend.
 An open-source, viral waitlist engine for early-stage startups.
 
-JumpSpot is a self-hostable waitlist system designed to help founders build launch hype. It features a built-in viral referral loop that users refer friends to unlock higher positions in the queue—powered by real-time database subscriptions.
+JumpSpot is a self-hostable waitlist system designed to help founders build launch hype. It features a built-in viral referral loop that users refer friends to unlock higher positions in the queue, powered by real-time database subscriptions.
 
 Think Lemon Squeezy's waitlist, but completely customizable and yours to control.
 
